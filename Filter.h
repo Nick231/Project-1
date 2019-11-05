@@ -3,7 +3,7 @@
 #include <string>
 #include <vector>
 #include "BaseballStatistic.h"
-
+using namespace std;
 class Filter{
   
   public:
